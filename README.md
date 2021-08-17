@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">I'm currently a full-stack web developer student at Trybe</h3>
-<p align="center"> I'm a React enthusiast focused on developing projects to improve my front-end skills</p>
+<ul>
+  
+  <li>I'm passionate about education and the use of technology to achieve progress and success.</li>
+  <li>I'm currently a full-stack web developer student at Trybe.</li>
+  <li align="center"> I'm a React enthusiast focused on developing projects to improve my front-end skills.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
