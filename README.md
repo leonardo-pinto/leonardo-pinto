@@ -3,7 +3,7 @@
   
   <li>I'm passionate about education and the use of technology to achieve progress and success.</li>
   <li>I'm currently a full-stack web developer student at Trybe.</li>
-  <li>A Back-End development enthusiast focused on developing personal projects to improve my front-end skills.</li>
+  <li>A Back-End development enthusiast focused on developing personal projects to improve my technical skills.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
