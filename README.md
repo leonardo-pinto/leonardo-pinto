@@ -7,7 +7,10 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<a target="blank" href="https://linkedin.com/in/leonardo-antonio-pinto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div>
+  <a target="blank" href="https://linkedin.com/in/leonardo-antonio-pinto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="blank" href="https://leonardo-pinto-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-3f5672?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" /></a>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
