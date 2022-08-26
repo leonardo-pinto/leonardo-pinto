@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <ul>
-  
+  <p> :computer: I'm a brazillian software engineer.</p>
   <li>I'm passionate about education and the use of technology to achieve progress and success.</li>
-  <li>I'm currently a full-stack web developer student at Trybe.</li>
   <li>A Back-End development enthusiast focused on developing personal projects to improve my technical skills.</li>
 </ul>
 
